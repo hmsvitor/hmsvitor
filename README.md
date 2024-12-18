@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hmsvitor
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on the blockchain world
+- 🌱 Fullstack developer
 - 📫 You can reach me at hermes.vitor@gmail.com
 
 <!---
